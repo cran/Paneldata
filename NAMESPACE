@@ -1,0 +1,5 @@
+S3method(Paneldata,formula)
+S3method(summary,Paneldata)
+export(Paneldata)
+export(Rand)
+export(fixed)
